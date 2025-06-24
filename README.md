@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dc711d61-dab3-4a65-a12e-557f83a8c100)# RAG-forAITest
+# RAG-forAITest
 
 This project implements a **Retrieval-Augmented Generation (RAG)** chatbot that answers cybersecurity-related questions using a combination of document retrieval and a local large language model (**Mistral** via **Ollama**).
 For some reasons, I put dataset on this drive https://drive.google.com/drive/folders/1EHyiT51Zb3HNvGWLeOPSZcVjf9GoiqO7
